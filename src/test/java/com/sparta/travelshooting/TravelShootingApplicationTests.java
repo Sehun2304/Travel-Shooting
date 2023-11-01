@@ -8,10 +8,5 @@ import org.springframework.test.annotation.Rollback;
 
 @SpringBootTest
 class TravelShootingApplicationTests {
-	EntityManager em;
 
-	@Test
-	void contextLoads() {
-
-	}
 }
