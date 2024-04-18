@@ -6,23 +6,19 @@
 
 [1. 프로젝트 소개](#1-프로젝트-소개)  
 
-[2. 프로젝트 이용 방법](#2-프로젝트-이용-방법)
+[2. 아키텍처](#3-아키텍처)
 
-[3. 아키텍처](#3-아키텍처)
+[3. ERD](#4-erd) 
 
-[4. ERD](#4-erd) 
+[4. 주요기능](#6-주요기능)  
 
-[5. API](#5-api) 
+[5. 기술적 의사결정](#7-기술적-의사결정)  
 
-[6. 주요기능](#6-주요기능)  
+[6. 트러블 슈팅](#8-트러블-슈팅)  
 
-[7. 기술적 의사결정](#7-기술적-의사결정)  
+[7. 사용자 피드백 및 추후 개발 계획](#9-사용자-피드백-및-추후-개발-계획)  
 
-[8. 트러블 슈팅](#8-트러블-슈팅)  
-
-[9. 사용자 피드백 및 추후 개발 계획](#9-사용자-피드백-및-추후-개발-계획)  
-
-[10. 팀원 소개](#10-팀원-소개)</h3>
+[8. 팀원 소개](#10-팀원-소개)</h3>
 
 
 ## 1. 프로젝트 소개
@@ -35,37 +31,19 @@
 - 지도 기능 있는 여행 계획 게시판, 여행 후기와 사진을 올릴 수 있는 후기 게시판, 여행지 별 채팅방 등의 기능을 구현하여 여행을 주제로 한 커뮤니티 활성화를 목표로 함
 
 
-## 2. 프로젝트 이용 방법
-https://travel-shooting.site/view/home
 
-- 해당 url로 접속하여 프로젝트를 이용해 볼 수 있습니다.
-  
-- PC 환경에서 접속해야 원활하게 이용하실 수 있습니다.
-  
-- 추가적인 기능들을 이용해보려면 로그인 후 이용하시길 추천드립니다.
-
-## 3. 아키텍처 
+## 2. 아키텍처 
 
 ![서비스 아키텍처 (2)](https://github.com/Travel-Shootings/Travel-Shooting/assets/131871197/2b01d2cb-0261-4d90-8da5-2f77e569845e)
 
 
-## 4. ERD 
+## 3. ERD 
 
 ![8조 ERD (1)](https://github.com/Travel-Shootings/Travel-Shooting/assets/131871197/f0ed6756-fcd0-4953-9c3f-f51d28cd5e33)
 
-**erdcloud url :** : https://www.erdcloud.com/d/syQQP4TuXNnECdBvA  
-
-## 5. API  
 
 
-  swagger를 활용하여 API를 작성했습니다.  
-  
-  **swagger document url :**  https://travel-shooting.site/swg  
-
-  **notion url :**  https://www.notion.so/Travel-Shooting-967bab501617465fb87bebe4ee33337f
-
-
-## 6. 주요기능  
+## 4. 주요기능  
 
 - 로그인 및 회원가입
   
@@ -97,11 +75,11 @@ https://travel-shooting.site/view/home
 
 - 알림 기능
 
-## 7. 기술적 의사결정  
+## 5. 기술적 의사결정  
 
 ![기술](https://github.com/Travel-Shootings/Travel-Shooting/assets/131871197/d35718b2-ac29-4406-a8d4-92949af29e87)
 
-## 8. 트러블 슈팅  
+## 6. 트러블 슈팅  
 
 <h3>네이버 지도 API </h3>
 
@@ -128,7 +106,7 @@ https://travel-shooting.site/view/home
 
 
 
-## 9. 사용자 피드백 및 추후 개발 계획  
+## 7. 사용자 피드백 및 추후 개발 계획  
 
   ![유저피드백1](https://github.com/Travel-Shootings/Travel-Shooting/assets/131871197/3b92817b-92a4-4f9d-9f7c-5e781f639778)
 
@@ -144,7 +122,7 @@ https://travel-shooting.site/view/home
       
     
 
-## 10. 팀원 소개
+## 8. 팀원 소개
 
 ![역할](https://github.com/Travel-Shootings/Travel-Shooting/assets/131871197/e88fdfc5-07d6-400b-8515-e31dfd3395b2)
 
